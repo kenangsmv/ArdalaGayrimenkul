@@ -1,0 +1,115 @@
+{ 
+  "nav":{
+  "menu_1":"Pаспродажа",
+  "menu_2":"Аренда",
+  "menu_3":"Контакты",
+  "menu_4":"Наша миссия",
+  "search":"Поиск"
+},
+"mission":{
+  "title_1":"Hаш взгляд",
+  "title_2":"Наша миссия",
+  "title_3":"Наши цели в области качества",
+  "title_4":"Наши ценности"
+
+},
+"mission_description":{
+  "item_1":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil aspernatur ipsa quia ex eveniet dolore facilis dolores hic ducimus quas molestiae accusantium nam vitae, odit similique placeat? Voluptatem consequuntur accusamus a, ut eligendi odio aliquid debitis corporis, doloremque incidunt dolorem quaerat officia vel odit quisquam atque eaque. Officiis quis quo perspiciatis quaerat dignissimos optio possimus cumque ut enim, dolores dolor illo, ipsa iste. Nemo maxime, odio laboriosam tenetur id, dicta quae iure molestias vitae ex voluptas magni exercitationem necessitatibus rerum dignissimos ad pariatur voluptates minus? Quibusdam, iusto cupiditate adipisci atque, illum vitae minus obcaecati, rerum omnis veritatis voluptates ratione molestiae.",
+  "item_2":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis totam vel quis necessitatibus tempore quos suscipit est ipsam, voluptates nemo mollitia provident, iste sunt illo velit autem itaque molestiae recusandae tenetur delectus modi? Quod ratione deserunt temporibus aperiam aliquid necessitatibus error ad, doloremque, iusto placeat, officia obcaecati saepe nobis consectetur consequatur. Delectus voluptatum eligendi ex, est adipisci nostrum molestias asperiores. Obcaecati qui labore alias quia deserunt officiis explicabo ad iusto porro consequuntur. Suscipit, maiores atque iste quod minus pariatur modi quibusdam reprehenderit, in laudantium commodi repellendus repudiandae cum soluta eaque id corrupti provident amet aut, aliquam quasi rerum eos temporibus. Autem, sint illum. Molestias magni ad facere dolorem porro est laborum quaerat, magnam voluptatum quod quo quos vel officia, omnis amet et expedita temporibus? Nulla ad sapiente ea necessitatibus neque ratione, ipsam aperiam quis, a quasi tempore iure unde modi dolor dolore, voluptate repellat eum deleniti assumenda saepe alias. Accusamus, praesentium sequi nemo atque perspiciatis distinctio molestiae obcaecati! Harum possimus reiciendis, deserunt cum quo quaerat nesciunt? Excepturi impedit deleniti odit at placeat repudiandae libero voluptates? Labore quam, minima, sunt dolore totam iste ea placeat unde facere praesentium eius. Maxime, ducimus. Autem, quam nostrum architecto sit doloremque in explicabo eaque ipsa!",
+  "item_3":{
+    "li_1":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+    "li_2":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+    "li_3":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+    "li_4":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+    "li_5":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+    "li_6":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!"
+
+  },
+  "item_4":{
+    "li_1":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+    "li_2":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+    "li_3":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+    "li_4":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+    "li_5":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+    "li_6":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!"
+
+  }
+
+},
+"intro":{
+   "quota":"Листайте, чтобы увидеть дома, которые преследуют вас во сне!",
+   "button":"Вы хотите к нам присоединиться?"
+
+},
+"filterDefault":{
+  "ad_type":"Тип объявления",
+  "residential":"Жилой",
+  "city":"Город",
+  "district":"Округ",
+  "room":"Номер",
+  "button":"Поиск"
+
+},
+"filterSelection":{
+  "sale":"Продажи",
+   "rental":"Аренда",
+   "flat":"Плоский",
+   "residence":"Резиденция",
+   "det_house":"Особняк",
+   "villa":"Вилла",
+   "hotel":"Отель"
+  
+},
+"card":{
+  "button":"Подробный обзор"
+ },
+ "advert":{
+  "advert_no":"Объявление",
+  "advert_date":"Дата объявления",
+  "real_estate":"Недвижимость",
+  "real_estate_type":"Тип недвижимости",
+  "advert_m2_brut":"брют",
+  "advert_m2_net":"полный",
+  "room":"Количество комнат",
+  "age":"Возраст здания",
+  "at_floor":"Расположение этажа",
+  "floor":"Количество этажей",
+  "climate":"Обогрев",
+  "bath":"Количество ванных комнат",
+  "balkon":"Балкон",
+  "esya":"Меблированный",
+  "state":"Использование статуса",
+  "aciklama":"Объяснение",
+  "konum":"Расположение"
+ },
+
+  "footer": {
+    "info-1": "TR: Район Пынарбашы Улица Хюрриет Акдениз Университет Ar-Ge 2 Корпус Улубей No:3 Коньяалты/Анталья",
+    "info-2": "© 2021 - Ardala Gayrimenkul Все права защищены",
+    "policy_privacy": "Политика конфиденциальности",
+    "policy_isms":"Политика СМИБ",
+    "policy_terms":"Условия Политики",
+    "policy_quality":"Качество политики",
+    "policy_cookie":"Политика cookie",
+    "title-2": "КОНТАКТЫ",
+    "title-3": "партнерские отношения",
+    "title-4": "ПОЛИТИКА КОМПАНИЙ",
+    "title-5": "финансирование",
+    "info-3": "EU: Viru väljak 2-3. коррус, 10111 Таллинн, Эстония",
+    "text-8": "Подпишитесь на нашу рассылку",
+    "button-1": "Отправить"
+  },
+  "contact-services": {
+    "title-1": "Свяжитесь с нами",
+    "title-2": "Отправить электронное письмо",
+    "info-1": "Вы можете отправить нам электронное письмо, нажав здесь.",
+    "info-2": "Адрес электронной почты:",
+    "info-3": "info@jelibot.com.tr",
+    "title-3": "Позвони нам",
+    "info-4": "Вы можете позвонить нам, нажав здесь.",
+    "info-5": "Номер Телефона:",
+    "info-6": "+90 533 479 25 19",
+    "title-4": "Найди нас",
+    "info-7": "Вы можете проложить маршрут к нашему офису, нажав здесь."
+  }
+}

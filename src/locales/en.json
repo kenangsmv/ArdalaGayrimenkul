@@ -1,0 +1,117 @@
+{
+  "nav":{
+    "menu_1":"Sale",
+    "menu_2":"Rental",
+    "menu_3":"Contacts",
+    "menu_4":"Our Mission",
+    "search":"Search"
+  },
+  "mission":{
+    "title_1":"Our vision",
+    "title_2":"Our Mission",
+    "title_3":"Quality Goals",
+    "title_4":"Values"
+
+  },
+  "mission_description":{
+    "item_1":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil aspernatur ipsa quia ex eveniet dolore facilis dolores hic ducimus quas molestiae accusantium nam vitae, odit similique placeat? Voluptatem consequuntur accusamus a, ut eligendi odio aliquid debitis corporis, doloremque incidunt dolorem quaerat officia vel odit quisquam atque eaque. Officiis quis quo perspiciatis quaerat dignissimos optio possimus cumque ut enim, dolores dolor illo, ipsa iste. Nemo maxime, odio laboriosam tenetur id, dicta quae iure molestias vitae ex voluptas magni exercitationem necessitatibus rerum dignissimos ad pariatur voluptates minus? Quibusdam, iusto cupiditate adipisci atque, illum vitae minus obcaecati, rerum omnis veritatis voluptates ratione molestiae.",
+    "item_2":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis totam vel quis necessitatibus tempore quos suscipit est ipsam, voluptates nemo mollitia provident, iste sunt illo velit autem itaque molestiae recusandae tenetur delectus modi? Quod ratione deserunt temporibus aperiam aliquid necessitatibus error ad, doloremque, iusto placeat, officia obcaecati saepe nobis consectetur consequatur. Delectus voluptatum eligendi ex, est adipisci nostrum molestias asperiores. Obcaecati qui labore alias quia deserunt officiis explicabo ad iusto porro consequuntur. Suscipit, maiores atque iste quod minus pariatur modi quibusdam reprehenderit, in laudantium commodi repellendus repudiandae cum soluta eaque id corrupti provident amet aut, aliquam quasi rerum eos temporibus. Autem, sint illum. Molestias magni ad facere dolorem porro est laborum quaerat, magnam voluptatum quod quo quos vel officia, omnis amet et expedita temporibus? Nulla ad sapiente ea necessitatibus neque ratione, ipsam aperiam quis, a quasi tempore iure unde modi dolor dolore, voluptate repellat eum deleniti assumenda saepe alias. Accusamus, praesentium sequi nemo atque perspiciatis distinctio molestiae obcaecati! Harum possimus reiciendis, deserunt cum quo quaerat nesciunt? Excepturi impedit deleniti odit at placeat repudiandae libero voluptates? Labore quam, minima, sunt dolore totam iste ea placeat unde facere praesentium eius. Maxime, ducimus. Autem, quam nostrum architecto sit doloremque in explicabo eaque ipsa!",
+    "item_3":{
+      "li_1":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+      "li_2":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+      "li_3":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+      "li_4":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+      "li_5":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+      "li_6":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!"
+
+    },
+    "item_4":{
+      "li_1":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+      "li_2":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+      "li_3":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+      "li_4":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+      "li_5":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!",
+      "li_6":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum, eaque!"
+
+    }
+
+  },
+"filterDefault":{
+  "ad_type":"Advert Type",
+  "residential":"Residential",
+  "city":"City",
+  "district":"District",
+  "room":"Room",
+  "button":"Search"
+
+},
+"filterSelection":{
+  "sale":"Sale",
+   "rental":"Rental",
+   "flat":"Flat",
+   "residence":"Residence",
+   "det_house":"Detached House",
+   "villa":"Villa",
+   "hotel":"Hotel"
+
+},
+"card":{
+  "button":"Detailed Reviews"
+ },
+ "advert":{
+  "advert_no":"Advert No",
+  "advert_date":"Listing Date",
+  "real_estate":"Real Estate",
+  "real_estate_type":"Real Estate Type",
+  "advert_m2_brut":"Brut",
+  "advert_m2_net":"Net",
+  "room":"Number of Rooms",
+  "age":"Age of Building",
+  "at_floor":"Floor Number",
+  "floor":"Number of Floors",
+  "climate":"Heating",
+  "bath":"Number of Bathrooms",
+  "balkon":"Balcony",
+  "esya":"Furnished",
+  "state":"User Status",
+  "aciklama":"Description",
+  "konum":"Location"
+ },
+
+"intro":{
+  "quota":"Swipe to review the houses that silence your dreams!",
+  "button":"Would you like to joins us?"
+
+},
+  "footer": {
+    "info-1": "TR: Reşitpaşa Mah. Katar Cad. No:4 İç Kapı No:1101 34467 İTÜ Çekirdek Sarıyer – İstanbul",
+    "info-2": "© 2021 - Ardala Gayrimenkul, All Rights Reserved",
+    "info-3": "EU: Viru väljak 2-3. Korrus, 10111 Tallinn, Estonia",
+    "policy_privacy": "Privacy Policy",
+    "policy_isms":"ISMS Policy",
+    "policy_terms":"Terms Policy",
+    "policy_quality":"Quality Management Policy",
+    "policy_cookie":"Cookie Policy",
+    "title-2": "CONTACT US",
+    "title-3": "Partnerships",
+    "title-4": "COMPANY POLICIES",
+    "title-5": "Funding",
+    "text-8": "Subscribe to our Newsletter",
+    "button-1": "Send"
+  },
+  "contact-services": {
+    "title-1": "Get in Touch",
+    "title-2": "Send Email",
+    "info-1": "By clicking here, you can send us e-mail.",
+    "info-2": "E-mail:",
+    "info-3": "info@jelibot.com.tr",
+    "title-3": "Call Us",
+    "info-4": "By clicking here, you can call us.",
+    "info-5": "Phone:",
+    "info-6": "+90 533 479 25 19",
+    "title-4": "Find Us",
+    "info-7": "By clicking here, you can get direction to our office."
+  }
+  
+ 
+  }

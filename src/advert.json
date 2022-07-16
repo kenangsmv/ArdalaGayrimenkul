@@ -1,0 +1,214 @@
+{
+"post": [
+    {
+        "title":"Muratpasa markantalyaya yakinasdasdfsadfsadfsadfsadfsdafsdafsd",
+        "ilan_no":"234326",
+        "ilan_tarihi":"05/06/2022",
+        "ilanTipi":"Kiralik",
+        "konutTipi":"Villa",
+        "il":"Istanbul",
+        "ilce":"Kepez",
+        "mahalle":"Yenidogan Mah",
+        "price":750000,
+        "m2_brut":"120 m²",
+        "m2_net":"110 m²",
+        "oda": "1+1",
+        "bina_yasi":"5-10",
+        "bulundugu_kat":"2",
+        "kat_sayisi":"5",
+        "isitma":"Dogalgaz",
+        "bathrooms":"1",
+        "balkon":"Yok",
+        "esyali":"Evet",
+        "kullanim_durumu":"Bos",
+        "id":"1",
+        "trend":"TREMD",
+        "location":"Konyaalti/Antalya",
+        "map":"iframe",
+        "active_img":"https://foyr.com/learn/wp-content/uploads/2021/08/design-your-dream-home.jpg",
+        "images":[      
+                "https://www.hepsiemlak.com/emlak-yasam/wp-content/uploads/2018/09/ev-satisi-icin-ilan-aciklamasina-neler-yazilmalidir-4.jpg",
+
+                "https://sm.shbdn.com/assets/estate360/common/x_565_424_ev-ilani-fotografi-cekerken-dikkat-edilmesi-gerekenler.jpg"    
+            ],
+        "tr_video":"link",
+        "en_video":"link",
+        "ru_video":"link",
+        "arb_video":"link",
+        "description":"asdasdasdasjkhdahgjdfagjhsdfghasdgfsaghjfagjhsdgjasdgjfasgjhdfghsadgfasghdfghasdfghasghjdfghsadgfhasghdfghsdagfasdgfagsjhdgfasdfghasdgjhfsgadfghsdaghsfdwerwere"
+
+        
+    },
+    {
+        "title":"Altinkum bla bla bla",
+        "ilan_no":"234326",
+        "ilan_tarihi":"05/06/2022",
+        "ilanTipi":"Satilik",
+        "konutTipi":"Villa",
+        "il":"Istanbul",
+        "ilce":"Kepez",
+        "mahalle":"Yenidogan Mah",
+        "price":750000,
+        "m2_brut":"120 m²",
+        "m2_net":"110 m²",
+        "oda": "1+1",
+        "bina_yasi":"5-10",
+        "bulundugu_kat":"2",
+        "kat_sayisi":"5",
+        "isitma":"Dogalgaz",
+        "bathrooms":"1",
+        "balkon":"Yok",
+        "esyali":"Evet",
+        "kullanim_durumu":"Bos",
+        "id":"2",
+        "trend":"TREMD",
+        "location":"Konyaalti/Antalya",
+        "map":"",
+        "active_img":"https://foyr.com/learn/wp-content/uploads/2021/08/design-your-dream-home.jpg",
+        "images":[      
+                "https://www.hepsiemlak.com/emlak-yasam/wp-content/uploads/2018/09/ev-satisi-icin-ilan-aciklamasina-neler-yazilmalidir-4.jpg",
+
+                "https://sm.shbdn.com/assets/estate360/common/x_565_424_ev-ilani-fotografi-cekerken-dikkat-edilmesi-gerekenler.jpg"    
+            ]
+        
+    },
+    {
+        "title":"Arapsuyu Migrosa yakin",
+        "ilan_no":"234326",
+        "ilan_tarihi":"05/06/2022",
+        "ilanTipi":"Kiralik",
+        "konutTipi":"Villa",
+        "il":"Istanbul",
+        "ilce":"Kepez",
+        "mahalle":"Yenidogan Mah",
+        "price":750000,
+        "m2_brut":"120 m²",
+        "m2_net":"110 m²",
+        "oda": "1+1",
+        "bina_yasi":"5-10",
+        "bulundugu_kat":"2",
+        "kat_sayisi":"5",
+        "isitma":"Dogalgaz",
+        "bathrooms":"1",
+        "balkon":"Yok",
+        "esyali":"Evet",
+        "kullanim_durumu":"Bos",
+        "id":"1",
+        "trend":"TREMD",
+        "location":"Konyaalti/Antalya",
+        "map":"",
+        "active_img":"https://foyr.com/learn/wp-content/uploads/2021/08/design-your-dream-home.jpg",
+        "images":[      
+                "https://www.hepsiemlak.com/emlak-yasam/wp-content/uploads/2018/09/ev-satisi-icin-ilan-aciklamasina-neler-yazilmalidir-4.jpg",
+
+                "https://sm.shbdn.com/assets/estate360/common/x_565_424_ev-ilani-fotografi-cekerken-dikkat-edilmesi-gerekenler.jpg"    
+            ]
+        
+    },
+    {
+        "title":"Kepez bla bla bla",
+        "ilan_no":"234326",
+        "ilan_tarihi":"05/06/2022",
+        "ilanTipi":"Kiralik",
+        "konutTipi":"Daire",
+        "il":"Istanbul",
+        "ilce":"Kepez",
+        "mahalle":"Yenidogan Mah",
+        "price":750000,
+        "m2_brut":"120 m²",
+        "m2_net":"110 m²",
+        "oda": "1+1",
+        "bina_yasi":"5-10",
+        "bulundugu_kat":"2",
+        "kat_sayisi":"5",
+        "isitma":"Dogalgaz",
+        "bathrooms":"1",
+        "balkon":"Yok",
+        "esyali":"Evet",
+        "kullanim_durumu":"Bos",
+        "id":"3",
+        "trend":"TREMD",
+        "location":"Konyaalti/Antalya",
+        "map":"",
+        "active_img":"https://foyr.com/learn/wp-content/uploads/2021/08/design-your-dream-home.jpg",
+        "images":[      
+                "https://www.hepsiemlak.com/emlak-yasam/wp-content/uploads/2018/09/ev-satisi-icin-ilan-aciklamasina-neler-yazilmalidir-4.jpg",
+
+                "https://sm.shbdn.com/assets/estate360/common/x_565_424_ev-ilani-fotografi-cekerken-dikkat-edilmesi-gerekenler.jpg"    
+            ]
+        
+    },
+    {
+        "title":"Suraxani rayonu",
+        "ilan_no":"234326",
+        "ilan_tarihi":"05/06/2022",
+        "ilanTipi":"Kiralik",
+        "konutTipi":"Mustakil Ev",
+        "il":"Istanbul",
+        "ilce":"Kepez",
+        "mahalle":"Yenidogan Mah",
+        "price":750000,
+        "m2_brut":"120 m²",
+        "m2_net":"110 m²",
+        "oda": "1+1",
+        "bina_yasi":"5-10",
+        "bulundugu_kat":"2",
+        "kat_sayisi":"5",
+        "isitma":"Dogalgaz",
+        "bathrooms":"1",
+        "balkon":"Yok",
+        "esyali":"Evet",
+        "kullanim_durumu":"Bos",
+        "id":"4",
+        "trend":"TREMD",
+        "location":"Konyaalti/Antalya",
+        "map":"",
+        "active_img":"https://foyr.com/learn/wp-content/uploads/2021/08/design-your-dream-home.jpg",
+        "images":[      
+                "https://www.hepsiemlak.com/emlak-yasam/wp-content/uploads/2018/09/ev-satisi-icin-ilan-aciklamasina-neler-yazilmalidir-4.jpg",
+
+                "https://sm.shbdn.com/assets/estate360/common/x_565_424_ev-ilani-fotografi-cekerken-dikkat-edilmesi-gerekenler.jpg"    
+            ]
+        
+    },
+    {
+        "title":"Erastanin ikinci katina kapidan giris",
+        "ilan_no":"234326",
+        "ilan_tarihi":"05/06/2022",
+        "ilanTipi":"Kiralik",
+        "konutTipi":"Villa",
+        "il":"Istanbul",
+        "ilce":"Kepez",
+        "mahalle":"Yenidogan Mah",
+        "price":750000,
+        "m2_brut":"120 m²",
+        "m2_net":"110 m²",
+        "oda": "1+1",
+        "bina_yasi":"5-10",
+        "bulundugu_kat":"2",
+        "kat_sayisi":"5",
+        "isitma":"Dogalgaz",
+        "bathrooms":"1",
+        "balkon":"Yok",
+        "esyali":"Evet",
+        "kullanim_durumu":"Bos",
+        "id":"5",
+        "trend":"TREMD",
+        "location":"Konyaalti/Antalya",
+        "map":"",
+        "active_img":"https://foyr.com/learn/wp-content/uploads/2021/08/design-your-dream-home.jpg",
+        "images":[      
+                "https://www.hepsiemlak.com/emlak-yasam/wp-content/uploads/2018/09/ev-satisi-icin-ilan-aciklamasina-neler-yazilmalidir-4.jpg",
+
+                "https://sm.shbdn.com/assets/estate360/common/x_565_424_ev-ilani-fotografi-cekerken-dikkat-edilmesi-gerekenler.jpg"    
+            ]
+        
+    }
+ 
+ 
+  
+    
+    
+
+]
+}
