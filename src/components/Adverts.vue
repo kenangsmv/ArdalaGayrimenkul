@@ -8,7 +8,7 @@
             <div class="adv-img">
               
                <Splide :options="{autoplay:true, rewind: true }">
-    <SplideSlide :v-for="(advert_img, index) in data.images">
+    <SplideSlide v-for="(advert_img, index) in data.images">
        
                 <img :src="advert_img" alt="">
      

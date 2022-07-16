@@ -1,7 +1,7 @@
 <template>
   <section class="home center" id="home">
-    <div class="home-background"></div>
-    <div class="container" style="position: relative">
+    <div class="home-background center">
+      <div class="container" style="position: relative">
       <div class="home__container section">
         <div class="home__data">
           <h1 class="home__title">ARDALA GAYRIMENKUL</h1>
@@ -16,6 +16,11 @@
       </div>
     
     </div>
+    </div>
+    <div class="home-img">
+      <img src="../assets/images/intro-home.jpg" alt="">
+    </div>
+    
     <div class="scroll-arrow">
       <font-awesome-icon :icon="arrow" class="icons arrow-icon" />
     </div>
@@ -68,9 +73,20 @@ export default {
 </script>
 
 <style scoped>
+.home-img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  }
+.home-img img{
+  height: 100%;
+  width: 100%;
+  }
 .home {
   height: 100vh;
-  background-image: url(../assets/images/intro-home.jpg);
+  
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -83,6 +99,7 @@ export default {
   width: 100%;
   height: 100%;
   background: #00000061;
+  z-index: 99;
 }
 .scroll-arrow {
   position: absolute;
