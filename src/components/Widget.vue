@@ -1,13 +1,12 @@
 <script>
 import Message from "./Message.vue";
-import Logo from "../assets/images/jelibot-logo.png";
-import MeetButton from './meetbutton.vue';
+import Logo from "../assets/images/ardala-logo.png";
 
 
 export default {
   components: {
     Message,
-    MeetButton
+    
 
   },
   data() {
@@ -19,11 +18,11 @@ export default {
   props: {
     companyName: {
       type: String,
-      default: "Jelibot",
+      default: "Ardala Gayrimenkul",
     },
     textReply: {
       type: String,
-      default: "Jelibot whatsapp",
+      default: "Ardala Gayrimenkul whatsapp",
     },
     messages: {
       type: Array,
@@ -35,7 +34,7 @@ export default {
     },
     phoneNumber: {
       type: String,
-      default: "+905468692334",
+      default: "+905337630002",
     },
   },
   methods: {
@@ -118,10 +117,7 @@ export default {
         />
       </svg>
     </button>
-    <button class="blantershow blantershow-meet">
-              <MeetButton />
-
-    </button>
+  
 
   </div>
 </template>

@@ -8,7 +8,9 @@
           <h2 class="home__subtitle">
             {{ $t("intro.quota") }}
           </h2>
-          <a href="/form" class="katil_button">            {{ $t("intro.button") }}
+          <a   @click="openLink">
+            <button class="katil_button" @click="control = !control">
+            {{ $t("intro.button") }}</button> 
 </a>
         </div>
       </div>
@@ -35,10 +37,32 @@ export default {
       location: faLocationArrow,
       tag: faTag,
       arrow: faAngleDoubleDown,
+       control: false,
+      text: null,
     };
   },
   components: {
     FontAwesomeIcon,
+  },
+   props: {
+    phoneNumber: {
+      type: String,
+      default: "+905337630002",
+    },
+  },
+  methods: {
+    openLink() {
+      let url = "https://web.whatsapp.com/send";
+      if (
+        /Android|webOS|iPhone|iPad|Mac|Macintosh|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+          navigator.userAgent
+        )
+      ) {
+        url = "whatsapp://send";
+      }
+      const all = url + "?phone=" + this.phoneNumber + `&text=${this.text}`;
+      window.open(all, "_blank");
+    },
   },
 };
 </script>
