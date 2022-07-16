@@ -12,49 +12,7 @@
 </a>
         </div>
       </div>
-      <!-- <div class="trending-add">
-      <div class="row">
-        <div class="col-4 center">
-      <div class="add-description ">
-        <div class="add-location center">
-          <font-awesome-icon
-            :icon="location"
-             class="icons"
-          />
-          <h1 class="location">
-          Konyaalti/Antalya
-
-          </h1>
-        </div>
-        <div class="adv-details">
-            <p class="add-text">
-            3+1 Kiralik Daire
-        </p>
-        <p class="add-price">
-          <font-awesome-icon
-            :icon="tag"
-             class="icons"
-          />
-          300000$
-        </p>
-        </div>
-      
-        <button class="adv-button">
-          Detayli inceleme
-        </button>
-      </div>
-         
-        </div>
-        <div class="col-8">
-      <div class="add-img">
-        <img src="../assets/images/EV.jpg" alt="">
-      </div>
-
-        </div>
-
-      </div>
-      
-    </div> -->
+    
     </div>
     <div class="scroll-arrow">
       <font-awesome-icon :icon="arrow" class="icons arrow-icon" />
