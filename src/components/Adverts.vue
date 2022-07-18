@@ -16,7 +16,7 @@
   
   </Splide>
               <p class="adv-price"> {{data.price}} </p>
-              <div @click="deneme" class="trend-tag absolute" v-if="data.trend=='TREMD'" style="padding:2px 5px;">
+              <div @click="deneme" class="trend-tag absolute" v-if="data.trend=='TREND'" style="padding:2px 5px;">
               {{data.trend}}
             </div>
             </div>
