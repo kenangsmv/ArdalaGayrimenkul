@@ -51,7 +51,7 @@
                     <div class="adv-icon-box">
                        <img class="icon-img" src="../assets/images/icons8-surface.png" alt="">
                       <p class="icon-info">
-                        {{data.m2}}
+                        {{data.m2_brut}}
                       </p>
                     </div>
                   </div>
