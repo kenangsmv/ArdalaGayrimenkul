@@ -38,6 +38,7 @@ export default {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+  z-index: 99;
 }
 
 .icon-link {

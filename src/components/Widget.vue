@@ -156,7 +156,7 @@ button.blantershow{
   display: flex;
   font-weight: 400;
   justify-content: space-between;
-  z-index: 98;
+  z-index: 99;
   font-size: 15px;
   padding: 15px 15px;
   border-radius: 50%;

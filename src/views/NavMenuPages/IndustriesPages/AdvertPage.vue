@@ -20,9 +20,11 @@ export default {
         this.advert_element = {
           ...element,
         };
+        console.log(this.advert_element);
       }
     });
   },
+
   computed: {},
   methods: {
     switchImage(index) {
@@ -76,7 +78,7 @@ export default {
                 <div class="imgs-box">
                   <div class="row">
                     <div
-                      :v-for="(advert_img, index) in this.advert_element.images"
+                      v-for="(advert_img, index) in this.advert_element.images"
                       class="col-lg-2 col-4"
                     >
                       <img

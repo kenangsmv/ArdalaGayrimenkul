@@ -343,6 +343,56 @@ and (-webkit-min-device-pixel-ratio: 2) {
   
 }
 
+@media screen and (min-width: 500px) and (max-width:1340px){
+ .navbar-menu {
+    display: none;
+  }
+  .responsive-navbar {
+    display: flex;
+    position: absolute;
+    height: 0;
+    background: black;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+     transition:all 0.3s;
+
+  }
+  .responsive-navbar-menu {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .responsive-navbar-item {
+    margin: 0;
+  }
+  .responsive-navbar-item a {
+    color: white;
+    font-size: 32px;
+  }
+  .hambuger {
+   display: flex;
+    
+    }
+    
+    .bread{
+       display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    z-index: 999;
+    }
+    input::placeholder{
+          font-size: 19px;
+    }
+    .language{
+      opacity: 0;
+    }
+
+}
 /* For Mobile Landscape View */
 @media screen and (max-device-width: 640px) and (orientation: landscape) {
 }

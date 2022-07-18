@@ -83,6 +83,7 @@ export default {
 .home-img img{
   height: 100%;
   width: 100%;
+  object-fit: cover;
   }
 .home {
   height: 100vh;
@@ -388,5 +389,25 @@ and (-webkit-min-device-pixel-ratio: 2) {
 @media (min-device-height: 667px) and (min-device-width: 375px)
 and (-webkit-min-device-pixel-ratio: 3) {
   
+}
+@media screen and (min-width: 500px) and (max-width:800px){
+.home__title{
+    font-size: 56px;
+    text-align: center;
+}
+.home__subtitle{
+    font-size: 20px;
+    text-align: center;
+}
+.katil_button{
+    font-size: 13px;
+}
+}
+@media screen and (min-width: 800px) {
+.home__title{
+    
+    text-align: center;
+}
+
 }
 </style>

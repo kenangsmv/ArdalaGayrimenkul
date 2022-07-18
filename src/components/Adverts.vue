@@ -10,7 +10,7 @@
                <Splide :options="{autoplay:true, rewind: true }">
     <SplideSlide v-for="(advert_img, index) in data.images">
        
-                <img :src="advert_img" alt="">
+                <img style="width: 100%; object-fit: cover;" :src="advert_img" alt="">
      
     </SplideSlide>
   
@@ -197,6 +197,7 @@ right: 10px;
       font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
     font-weight: 600;
     overflow: hidden;
+    max-height: 19px;
 
 }
 .adv-info-locations{
@@ -272,6 +273,11 @@ and (-webkit-min-device-pixel-ratio: 2) {
     }
     .adv-info-locations img {
      width: 16px;
+}
+}
+@media screen and (min-width: 500px) and (max-width:800px){
+.adv-button button {
+    font-size: 15px;
 }
 }
 /* For Mobile Portrait View */

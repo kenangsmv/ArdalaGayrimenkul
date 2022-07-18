@@ -292,6 +292,22 @@ and (orientation: portrait) {
    
     
 }
+@media screen and (min-width: 500px) and (max-width:800px){
+select {
+    font-size: 14px;
+}
+.min, .max {
+    margin-bottom: 20px;
+}
+input {
+    font-size: 14px;
+    margin: 0;
+}
+.search-btn {
+    width: 100%;
+    font-size: 15px;
+}
+}
  
 /* For Mobile Landscape View */
 @media screen and (max-device-width: 640px)

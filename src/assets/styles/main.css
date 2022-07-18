@@ -188,6 +188,8 @@ margin: 0 !important;}
 .scroll-top{
     visibility: visible;
     bottom: 1.5rem;
+    z-index: 999;
+
 }
 
 .button{
