@@ -10,7 +10,7 @@
     </a>
     <Header :darkTheme="darkTheme" @toggle="toggle" />
     <router-view :darkTheme="darkTheme" @toggle="toggle"></router-view>
-    <Widget phoneNumber="+905468692334" />
+    <Widget phoneNumber="+905337630002" />
     <Footer :darkTheme="darkTheme" @toggle="toggle" />
     <Stickybar />
   </section>

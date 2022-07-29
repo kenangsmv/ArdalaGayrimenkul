@@ -2,7 +2,7 @@
   <section class="contact">
     <div class="google-map">
       <iframe
-        src="https://maps.google.com/maps?width=100%25&amp;height=200&amp;hl=en&amp;q=%C4%B0T%C3%9C%20%C3%87ekirdek+()&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3191.705059102611!2d30.645519315224945!3d36.87347797993354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c391a158c8e429%3A0x4d1da29eefe62263!2sZeytin%20Dal%C4%B1%20Meyhanesi%20Konyaalt%C4%B1!5e0!3m2!1str!2str!4v1659098995102!5m2!1str!2str"
         width="100%"
         height="100%"
         style="border: 0"
@@ -24,7 +24,7 @@
                 <h1>Get in Touch</h1>
                 <div class="phone-numb">
                   <img style="padding:4px" class="contact-img" src="../assets/images/ardalaphone3.png" alt="" />
-                  <span>+90 543 234 00 10</span>
+                  <span>+90 533 763 00 02</span>
                 </div>
                 <div class="email">
                   <img class="contact-img" src="../assets/images/ardalaemail.png" alt="" />
